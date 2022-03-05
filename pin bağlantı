@@ -1,0 +1,3 @@
+NodeMCU A0'ı MQ135 AO'ya
+bağlayın NodeMCU GND'yi MQ135 GND'ye
+bağlayın NodeMCU VIN'i (5V) MQ135 VCC'ye bağlayın
