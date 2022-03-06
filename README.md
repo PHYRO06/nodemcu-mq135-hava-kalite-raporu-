@@ -1,2 +1,2 @@
-# nodemcu-mq135-hava-kalite-raporu-
-nodemcu ve mq135 ile hava kalite raporu 
+# air quality report with nodemcu +mq135
+
